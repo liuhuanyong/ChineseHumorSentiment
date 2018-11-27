@@ -66,7 +66,7 @@ chinese Humor Detection or Computation based on corpus and nlp methods, 基于�
 4,本项目的受到大连理工大学信息检索实验室工作的启发.  
 
 any question?
-请联系我:
-邮箱:lhy_in_blcu@126.com
-csdn:https://blog.csdn.net/lhy2014
-我的自然语言处理项目: https://liuhuanyong.github.io/
+请联系我:  
+邮箱:lhy_in_blcu@126.com  
+csdn:https://blog.csdn.net/lhy2014  
+我的自然语言处理项目: https://liuhuanyong.github.io/  
