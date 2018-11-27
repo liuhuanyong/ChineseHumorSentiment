@@ -12,7 +12,6 @@ chinese Humor Detection or Computation based on corpus and nlp methods, 基于�
    隐喻类型识别模型  
    隐喻情绪识别模型  
 
-本项目的结构示意图如下:
 ![image](https://github.com/liuhuanyong/ChineseHumorSentiment/blob/master/image/program_structure.png)
 
 # 中文幽默文本语料库的构建
@@ -65,7 +64,6 @@ chinese Humor Detection or Computation based on corpus and nlp methods, 基于�
 2,本项目完成了幽默语料库的构建工作,并使用基本的双向lstm模型,训练了四个模型,准确率还有很大优化空间  
 3,本项目后期将逐步加入Attention等机制,对现有模型基础进行更新,尝试是否可以进一步提高准确性  
 4,本项目的受到大连理工大学信息检索实验室工作的启发.  
-
 
 any question?
 请联系我:
